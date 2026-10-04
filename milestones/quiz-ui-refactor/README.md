@@ -1,7 +1,7 @@
 # Case Study: Advanced UI/UX Refactor for Lead Capture Quiz
 
 ## 📌 Context
-The "Label M" onboarding funnel relies on a complex quiz. The original 3rd-party implementation had generic styling, broken visibility for legal texts in Dark Mode, and typographic clipping issues.
+The "M-Academy M" onboarding funnel relies on a complex quiz. The original 3rd-party implementation had generic styling, broken visibility for legal texts in Dark Mode, and typographic clipping issues.
 
 ## 🛠️ Technical Challenges & Solutions
 
@@ -23,7 +23,7 @@ The "Label M" onboarding funnel relies on a complex quiz. The original 3rd-party
 | :---: | :---: | :---: |
 | ![Before 1](./before%201.png) | ![Before 2](./before%202.png) | ![Before 3](./before%203.png) |
 
-### After Refactor (Label MBA Branding)
+### After Refactor (M-Academy Branding)
 | Final Hero | Answer Selection | Consent View |
 | :---: | :---: | :---: |
 | ![After](./after.png) | ![After%202](./after%202.png) | ![After%203](./after%203.png) |

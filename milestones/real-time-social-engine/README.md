@@ -1,7 +1,7 @@
 # Case Study: Real-Time Social Engine & Adaptive UI Architecture
 
 ## 📌 Overview
-Implementation of a full-stack community feed for the **Label MBA** platform. The focus was on solving data volatility and creating a seamless, "app-like" social experience using a reactive architecture.
+Implementation of a full-stack community feed for the **M-Academy** platform. The focus was on solving data volatility and creating a seamless, "app-like" social experience using a reactive architecture.
 
 ## 🛠️ The Problem
 1. **Data Volatility:** User interactions (posts/comments) were lost on page refresh, and there was no synchronization between different users.
@@ -25,7 +25,7 @@ Here is a side-by-side comparison demonstrating how the single Modal component a
 
 | Media-Rich Layout | Text-Focused Layout |
 | :--- | :--- |
-| ![Label MBA - Multimedia Context](../../assets/real-time/comment-image.png) | ![Label MBA - Text-Only Context](../../assets/real-time/comment-post.png) |
+| ![M-Academy - Multimedia Context](../../assets/real-time/comment-image.png) | ![M-Academy - Text-Only Context](../../assets/real-time/comment-post.png) |
 | **Left (Media-Rich):** Widescreen, cinematic format optimized for visual engagement when multimedia metadata exists. | **Right (Text-Focused):** Narrower, centered format optimizing the readable viewport for standard text posts. |
 
 ## 🚀 Key Technologies

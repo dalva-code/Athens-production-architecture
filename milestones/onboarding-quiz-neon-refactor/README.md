@@ -1,7 +1,7 @@
 # Case Study: Onboarding Quiz & Dynamic Select2 Refactor 🦩
 
 ## 📋 Overview
-In this milestone for **Label MBA**, I led the visual transformation of a lead-capture tool. The goal was to convert a standard, generic third-party form into a high-end "Cinematic Neon" experience, ensuring 100% brand alignment with the music industry aesthetic.
+In this milestone for **M-Academy**, I led the visual transformation of a lead-capture tool. The goal was to convert a standard, generic third-party form into a high-end "Cinematic Neon" experience, ensuring 100% brand alignment with the music industry aesthetic.
 
 ## 🛠️ The Technical Challenge
 The third-party library used for the quiz injected elements into the DOM with **Dynamic IDs** (e.g., `select2-forminator-69c536...`). This rendered traditional static CSS selectors useless.

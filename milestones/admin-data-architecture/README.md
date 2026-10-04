@@ -1,6 +1,6 @@
 # Case Study: Admin Data Architecture & Security 🛡️
 
-**Project:** Label M... MVP  
+**Project:** M-Academy M... MVP  
 **Role:** Technical Lead
 
 ---
