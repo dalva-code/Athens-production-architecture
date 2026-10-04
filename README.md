@@ -109,7 +109,7 @@ During the final MVP stages, I identified that the production environment was un
           local-dir: ./dist/
           server-dir: ./public_html/
 ---
-
+  ```
 ## 📩 Contact
 
 **David Esteban Correa Alvarado** *Technical Lead & Fullstack Developer* [LinkedIn](https://www.linkedin.com/in/david-esteban-correa-alvarado) | [GitHub Profile](https://github.com/dalva-code)
